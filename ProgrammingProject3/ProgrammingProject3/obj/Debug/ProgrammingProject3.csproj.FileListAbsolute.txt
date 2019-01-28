@@ -1,0 +1,10 @@
+C:\Users\Revenue Director\Desktop\GCU\Week3\ProgrammingProject3\ProgrammingProject3\ProgrammingProject3\bin\Debug\ProgrammingProject3.exe.config
+C:\Users\Revenue Director\Desktop\GCU\Week3\ProgrammingProject3\ProgrammingProject3\ProgrammingProject3\bin\Debug\ProgrammingProject3.exe
+C:\Users\Revenue Director\Desktop\GCU\Week3\ProgrammingProject3\ProgrammingProject3\ProgrammingProject3\bin\Debug\ProgrammingProject3.pdb
+C:\Users\Revenue Director\Desktop\GCU\Week3\ProgrammingProject3\ProgrammingProject3\ProgrammingProject3\obj\Debug\ProgrammingProject3.csprojAssemblyReference.cache
+C:\Users\Revenue Director\Desktop\GCU\Week3\ProgrammingProject3\ProgrammingProject3\ProgrammingProject3\obj\Debug\ProgrammingProject3.Properties.Resources.resources
+C:\Users\Revenue Director\Desktop\GCU\Week3\ProgrammingProject3\ProgrammingProject3\ProgrammingProject3\obj\Debug\ProgrammingProject3.csproj.GenerateResource.cache
+C:\Users\Revenue Director\Desktop\GCU\Week3\ProgrammingProject3\ProgrammingProject3\ProgrammingProject3\obj\Debug\ProgrammingProject3.csproj.CoreCompileInputs.cache
+C:\Users\Revenue Director\Desktop\GCU\Week3\ProgrammingProject3\ProgrammingProject3\ProgrammingProject3\obj\Debug\ProgrammingProject3.exe
+C:\Users\Revenue Director\Desktop\GCU\Week3\ProgrammingProject3\ProgrammingProject3\ProgrammingProject3\obj\Debug\ProgrammingProject3.pdb
+C:\Users\Revenue Director\Desktop\GCU\Week3\ProgrammingProject3\ProgrammingProject3\ProgrammingProject3\obj\Debug\ProgrammingProject3.Form1.resources
